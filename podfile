@@ -1,0 +1,12 @@
+platform :ios,'9.0'
+use_frameworks!
+target 'SwiftProject' do
+
+pod 'Firebase/Database'
+pod 'Firebase/Auth'
+pod 'Firebase/Storage'
+pod 'SideMenu'
+pod 'SDWebImage', '~>3.8.1'
+pod ‘SwiftHSVColorPicker’
+pod "KCFloatingActionButton", :git => 'https://github.com/kciter/KCFloatingActionButton.git', :branch => 'swift2.0'
+end

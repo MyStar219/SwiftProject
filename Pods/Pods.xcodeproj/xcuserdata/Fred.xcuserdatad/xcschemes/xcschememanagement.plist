@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Pods-SwiftProject.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>SDWebImage.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>SideMenu-SideMenu.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>SideMenu.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>SwiftHSVColorPicker.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>109EF379AFF143CC5226C4558938BBEA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1C22C7EAE8F554E748B8536510DA9FF3</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A1AE915389D50D22B012C1C08DA03630</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CDE1934CB1B4D1B487718D9501058BAA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D8069CF2AB7ACC378B7B0B1FD8AE2A0B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
